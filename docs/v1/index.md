@@ -14,7 +14,7 @@ A curated collection of guides to help you understand what DocumentDB is, why it
 - [DocumentDB Gateway](v1/gateway.md)
 - [Prebuild Image](v1/prebuild-image.md)
 - [Getting Started](v1/get-started.md)
-- [Usage (CRUD)](v1/usage.md)
+- [Usage (CRUD & Bulk Operations)](v1/usage.md)
 - [Collection Management](v1/collection-management.md)
 - [Indexing](v1/indexing.md)
 - [Aggregation](v1/aggregation.md)
